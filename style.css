@@ -1,8 +1,16 @@
+html { 
+    background: url("images/Starry\ Nebula\ 181.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
 body{
     margin: 0px;
     
     font-family: Arial, Helvetica, sans-serif;
-    background:rgba(71, 54, 17, 0.452)
+
 }
 
 .navbar{
@@ -11,6 +19,7 @@ body{
     background-color: rgb(13, 48, 88);
     color: rgba(255, 255, 0, 0.658);
     height: 40px;
+    opacity: .7;
    
 }
 
@@ -20,6 +29,7 @@ body{
 
 h1{
     text-align: center;
+    color: white;
 }
 
 
@@ -36,7 +46,7 @@ h1{
   
 
 .caption{
-    background: white;
+    background:gray;
     width: 200px;
     position: relative;
     opacity: 0.6;
