@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(51, 50, 66) 
+}
+
+#firstBox{
+    width: 600px;
+    height: 400px; 
+    border: 10px solid rgb(145, 142, 142);
+
+}
+#secondBox{
+    border: 10px solid rgba(196, 13, 13, 0.808);
+    height: 400px;
+    width: 600px;
+    
+}
+
+#thirdBox{
+    border: 10px solid rgba(196, 147, 13, 0.808);
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    
+
+}
+#fourthBox{
+    border: 10px solid rgba(13, 114, 196, 0.808);
+    height: 400px;
+    width: 600px;
+    display: inline-block;
+    background-image: url(images/krautrock.png);
+    background-size: cover;
+    
+
+}
