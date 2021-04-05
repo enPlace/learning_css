@@ -131,3 +131,11 @@ h1{
     margin-bottom: 100px;
     display: inline-block;
 }
+
+#sidebox{
+    width: 300px; 
+    height: 100px; 
+    background-color:rgba(196, 147, 13, 0.808); 
+    margin: 0px 10px;
+
+}
