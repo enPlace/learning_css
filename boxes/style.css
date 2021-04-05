@@ -94,7 +94,7 @@ h1{
 #topbox{
     width: 600px;
     height: 400px; 
-    background-color:rgb(144, 13, 196);
+    background-color:rgb(86, 108, 204);
     margin: 0 auto;
     position: absolute;
     left: 50%;
@@ -107,7 +107,7 @@ h1{
 #bottombox{
     width: 600px;
     height: 400px; 
-    background-color:rgb(196, 178, 13);
+    background-color:rgba(35, 13, 160, 0.726);
     margin: 0 auto;
     
    
@@ -115,3 +115,10 @@ h1{
    position: relative;
     top: 20px; 
     left: 20px;
+}
+.zboxes2{
+    margin-top: 70px;
+    margin:0 auto;
+    margin-bottom: 100px;
+    display: inline-block;
+}
