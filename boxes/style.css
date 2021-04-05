@@ -6,7 +6,16 @@ body{
     
 
 }
-
+.fixed{
+    color: rgb(209, 208, 208);
+    float: left;
+    position: fixed;
+}
+#fixedBox{
+    width: 70px; 
+    height: 70px; 
+    background-color:rgb(145, 142, 142)
+}
 h1{
     margin:auto;
     text-align: center;
